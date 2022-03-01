@@ -1,4 +1,4 @@
-# Project 1: California School Districts Successful Transition to New Mathematics Framework
+# California School Districts Successful Transition to New Mathematics Framework
 
 ### Problem Statement
 The Board of Education for the state of California would like to allocate resources to districts in need pertaining to student success in math. The project aims to identify the California school districts with the lowest student performances in mathematics by using ACT and SAT data. Those school districts will be looked at further to determine what resources or funds would be beneficial in order to increase student success in mathematics.
